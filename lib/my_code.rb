@@ -1,4 +1,4 @@
-source_array=[1,23,4,5,7,12]
+source_array=[1,2,3]
 
 def map(source_array)
   new_array=[]
